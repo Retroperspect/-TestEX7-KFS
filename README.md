@@ -1,1 +1,2 @@
-# -TestEX7-KFS
+# TestEX7-KFS
+> by Kristian Flejsborg Sørensen
